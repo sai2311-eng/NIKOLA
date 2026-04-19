@@ -1,0 +1,726 @@
+AGNES PROCUREMENT KNOWLEDGE BASE
+================================
+
+--- INGREDIENT LIST ---
+These are the primary raw materials available in the Spherecast network:
+- calcium citrate
+- cellulose
+- croscarmellose sodium
+- magnesium silicate
+- magnesium stearate
+- polyethylene glycol
+- polyvinyl alcohol
+- stearic acid
+- titanium dioxide
+- vitamin d3 cholecalciferol
+- chloride
+- citric acid
+- concentrace trace minerals
+- effervescent base
+- natural lemon lime flavor
+- potassium
+- vitamin c
+- gelatin capsule bovine
+- magnesium glycinate
+- rice powder
+- silica
+- vegetable magnesium stearate
+- blue 2 lake
+- calcium carbonate
+- cholecalciferol vitamin d3
+- copper sulfate
+- magnesium oxide
+- maltodextrin
+- manganese sulfate
+- red 40 lake
+- talc
+- tocopherols
+- yellow 6 lake
+- zinc oxide
+- b vitamins
+- energy support botanicals nutrients
+- probiotic cultures
+- vitamin d
+- biotin
+- calcium
+- chromium
+- copper
+- folate
+- gelatin
+- iodine
+- iron
+- lutein
+- lycopene
+- magnesium
+- manganese
+- molybdenum
+- niacinamide
+- pantothenic acid
+- riboflavin
+- selenium
+- thiamine
+- vitamin a
+- vitamin b1
+- vitamin b12
+- vitamin b2
+- vitamin b6
+- vitamin e
+- vitamin k
+- vitamin k1
+- zinc
+- beet powder
+- coconut water powder
+- lemon juice powder
+- monk fruit extract
+- non gmo citric acid
+- organic flavor
+- organic ginger
+- organic pomegranate juice powder
+- organic stevia extract
+- organic turmeric
+- pink himalayan salt
+- sodium citrate
+- natural flavors
+- sodium
+- ascorbic acid
+- ascorbyl palmitate
+- beta carotene
+- bht
+- carboxymethylcellulose sodium
+- cholecalciferol
+- chromium chloride
+- chromium picolinate
+- cupric oxide
+- cupric sulfate
+- cyanocobalamin
+- d calcium pantothenate
+- dicalcium phosphate
+- dl alpha tocopherol
+- dl alpha tocopheryl acetate
+- dl tartaric acid
+- fd and c blue no 2 lake
+- fd and c red no 40 lake
+- fd and c yellow no 6 lake
+- ferrous fumarate
+- folic acid
+- glucose
+- gum arabic
+- hydroxypropyl methylcellulose
+- medium chain triglycerides
+- microcrystalline cellulose
+- niacin
+- nicotinamide
+- phytonadione
+- polydextrose
+- potassium chloride
+- potassium iodide
+- pyridoxine hydrochloride
+- retinyl acetate
+- sodium aluminum silicate
+- sodium ascorbate
+- sodium benzoate
+- sodium molybdate
+- sodium selenite
+- sodium starch glycolate
+- sorbic acid
+- sorbitol
+- starch
+- sucrose
+- sunflower oil
+- thiamine mononitrate
+- tricalcium phosphate
+- vitamin d3
+- bcaas
+- collagen peptides
+- digestive enzymes
+- lecithin
+- natural and artificial flavors
+- whey protein isolate
+- carnauba wax
+- hydroxypropylmethylcellulose
+- polysorbate 80
+- silicon dioxide
+- vegetable acetoglycerides
+- choline bitartrate
+- d alpha tocopheryl succinate
+- hesperidin complex
+- inositol
+- lemon bioflavonoid complex
+- para amino benzoic acid
+- potassium alginate
+- pyridoxine hcl
+- rice bran
+- rice protein
+- rutin
+- soy lecithin
+- thiamine hcl
+- vitamin a palmitate
+- bifidobacterium lactis bl 04
+- milk protein
+- organic erythritol
+- organic gum acacia
+- organic stevia extract leaf
+- organic tapioca fiber imo
+- organic vanilla flavors
+- sea salt
+- sunflower lecithin
+- magnesium citrate
+- magnesium malate
+- fructooligosaccharides
+- natural vanilla
+- stevia
+- whey protein concentrate
+- xanthan gum
+- glycerin
+- olive oil
+- softgel bovine gelatin
+- soybean oil
+- natural flavor
+- salt sodium chloride
+- stevia leaf extract
+- dextrose
+- dipotassium phosphate
+- natural strawberry flavor
+- potassium citrate
+- pure cane sugar
+- salt
+- stevia leaf extract rebaudioside a
+- vitamin b12 cyanocobalamin
+- vitamin b3 niacinamide
+- vitamin b5 d calcium pantothenate
+- vitamin b6 pyridoxine hydrochloride
+- vitamin c ascorbic acid
+- hypromellose
+- safflower oil
+- softgel capsule bovine gelatin
+- dibasic calcium phosphate dihydrate
+- orange flavor
+- sugar
+- acacia gum
+- cellulose gel
+- epicor postbiotic
+- magnesium bisglycinate
+- modified food starch
+- palm oil
+- rice flour
+- vegetarian capsule
+- vitamin k2 menaquinone 7
+- corn oil
+- vegetable cellulose
+- vegetable glycerin
+- aquamin mg soluble
+- calcium d pantothenate
+- manganese chelate
+- sodium chloride
+- ferment media
+- lac resin
+- organic coating
+- organic maltodextrin
+- thiamin
+- soft gel capsule bovine gelatin
+- chromium nicotinate
+- magnesium carbonate
+- potassium gluconate
+- vegan capsule
+- vitamin c l ascorbic acid
+- zinc sulfate
+- acesulfame potassium
+- cocoa powder
+- sucralose
+- gummy base
+- inulin
+- polyvinylpolypyrrolidone
+- vitamin a acetate
+- artificial flavor
+- cellulose gum
+- cocoa powder processed with alkali
+- hydrolyzed whey protein
+- grass fed whey protein concentrate
+- organic acacia
+- organic inulin
+- organic rice bran extract
+- organic rice dextrins
+- organic rosemary extract
+- organic stevia
+- ascorbic acid vitamin c
+- coconut water from concentrate
+- cyanocobalamin vitamin b12
+- d alpha tocopheryl acetate vitamin e
+- l isoleucine
+- l leucine
+- l valine
+- pyridoxine hydrochloride vitamin b6
+- retinyl palmitate vitamin a
+- anhydrous dextrose
+- boron calcium fructoborate
+- gellan gum
+- magnesium dimagnesium malate
+- non gmo corn zein
+- omega 3 dha
+- vitamin a retinyl palmitate
+- vitamin b12 methylcobalamin
+- vitamin e alpha tocopherol
+- zinc zinc bisglycinate
+- kalahari desert salt
+- natural peach flavor
+- prebiotic fiber
+- organic dairy whey protein concentrate
+- organic sunflower lecithin
+- vegetable stearic acid
+- coconut mct oil
+- plantgel capsule
+- blue agave inulin
+- brown rice protein
+- cinnamon
+- coconut sugar
+- ground vanilla beans
+- hemp seed protein
+- medium chain triglycerides mct from coconut oil
+- pea protein
+- pumpkin seed protein
+- beet juice powder
+- fruit and vegetable juice
+- malic acid
+- potassium phosphate
+- vitamin c calcium ascorbate
+- zinc chelate
+- aqueous coating
+- astaxanthin
+- black pepper concentrate
+- bone gelatin bovine
+- boron amino acid chelate
+- citrus bioflavonoids
+- coenzyme q10
+- gelatin capsule
+- grape seed extract
+- green tea extract
+- hypromellose capsule
+- magnesium aspartate
+- magnesium taurate
+- modified cellulose
+- natural vanilla flavor
+- oil fill
+- performance support nutrients
+- pomegranate extract
+- resveratrol
+- rhodiola rosea extract root
+- vanadium as vanadyl sulfate
+- vitamin k2
+- zeaxanthin
+- leucine
+- vitamin e d alpha tocopheryl
+- organic whey protein
+- alfalfa leaf
+- boron
+- hydroxypropyl methyl cellulose
+- iron glycinate
+- kelp extract
+- sulfate
+- taurine
+- vitamin b6 pyridoxal 5 phosphate
+- beet extract
+- calcium ascorbate
+- calcium lactate gluconate
+- coloring concentrates
+- manganese citrate
+- natural passionfruit flavor
+- natural tangerine flavor
+- organic stevia leaf extract rebaudioside a
+- other natural flavors
+- potassium aspartate
+- rebaudioside a
+- zinc citrate
+- coq10
+- cultured nutrients
+- fruit nutrients
+- magnesium amino acid chelate
+- magnesium l threonate magtein
+- magnesium taurinate
+- trace mineral concentrate
+- vegetable nutrients
+- blend of oils coconut and or palm with beeswax and or carnauba w
+- lactic acid
+- natural cherry flavor
+- tapioca syrup
+- carrageenan
+- cocoa processed with alkali
+- organic agave inulin powder
+- organic food complex
+- organic food complex blend
+- vegan capsule hypromellose
+- artificial flavors
+- calcium pantothenate vitamin b5
+- cane sugar
+- gum acacia
+- niacinamide vitamin b3
+- pea starch
+- pharmaceutical glaze
+- sodium alginate
+- stevia or sucralose sweetener
+- natural french vanilla flavor
+- organic cane sugar
+- cocoa
+
+--- SUPPLIER DIRECTORY ---
+Details on qualified suppliers, their pricing, and performance tiers:
+
+SUPPLIER: Groothandel Bulk Zoetstof Stevia Extract Stevioside 98...
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Organische Stevia Extract Rebaudioside M 95% Poeder Ra Rm Rd...
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Oplosmiddel
+  Product: stevia leaf extract rebaudioside a
+  Country: China
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Untitled • indiamart.com
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: indiamart.com/proddetail/stevia
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Untitled • dir.indiamart.com
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Stevia Extracts Manufacturers and Suppliers in the USA and Canada
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Stevia Sweeteners Manufacturers and Suppliers in the USA ...
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Herbal Extracts Suppliers
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Stevia
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: stevia Manufacturer/Producer
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Extracts Food
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Rebaudioside Manufacturer Supplier
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: [Hot Item] Wholesales Rebaudioside a Organic Stevia Leaf Extract
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Stevia Manufacturer, Plant Extract, Cbd Isolate Powder Supplier...
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Plant Extract Stevia Leaf Extract Stevia Rebaudiana Stevia Ra98...
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Sweetener
+  Product: stevia leaf extract rebaudioside a
+  Country: USA
+  Price: 1.0 USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Global Sources
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: China Wholesale...
+  Product: stevia leaf extract rebaudioside a
+  Country: China
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Consumer Electronics
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Pemanis Alami Grosir Diekstrak Dari Daun Stevia, Rebaudioside...
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: The Best in Bulk with China Wholesale Betel Nut...
+  Product: stevia leaf extract rebaudioside a
+  Country: China
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Howtian
+  Product: stevia leaf extract rebaudioside a
+  Country: China
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: ImportYeti finds suppliers & manufacturers based on actionable data
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Qingdao Nascent Trade
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: GRAS Notices
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: GRAS notice 768 for Stevia leaf extract
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: GRAS Notice 1106, Rebaudioside I obtained by enzymatic treatment of ...
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Substance Information
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Search for chemicals
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Untitled • es.openfoodfacts.org
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Rebaudioside A 98%
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Stevia Extract Rebaudioside
+  Product: stevia leaf extract rebaudioside a
+  Country: China
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Bulk
+  Product: stevia leaf extract rebaudioside a
+  Country: India
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Stevia Extract (Rebaudioside A 98%)
+  Product: stevia leaf extract rebaudioside a
+  Country: Italy
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
+SUPPLIER: Stevia Extract Powder Wholesale
+  Product: stevia leaf extract rebaudioside a
+  Country: None
+  Price: None USD per unit
+  MOQ: None None
+  Lead Time: None days
+  Tier: None
+  Final Score: None/100
+  Certifications: Standard
+------------------------------
