@@ -1,0 +1,42 @@
+# ── Core API + UI ─────────────────────────────────────────────────────────────
+anthropic>=0.40.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+streamlit>=1.32.0
+
+# ── Data extraction ────────────────────────────────────────────────────────────
+pdfplumber>=0.11.0
+Pillow>=10.3.0
+pytesseract>=0.3.10
+easyocr>=1.7.1
+
+# ── Web scraping ───────────────────────────────────────────────────────────────
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+ddgs>=6.3.0
+selenium>=4.20.0
+webdriver-manager>=4.0.1
+lxml>=5.2.0
+
+# ── Data processing ────────────────────────────────────────────────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+
+# ── ML / similarity (v1 features, optional for v2) ────────────────────────────
+sentence-transformers>=3.0.0
+scikit-learn>=1.4.0
+
+# ── API / networking ───────────────────────────────────────────────────────────
+python-multipart>=0.0.9
+httpx>=0.27.0
+pydantic>=2.7.0
+google-api-python-client>=2.170.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+
+# ── Utilities ──────────────────────────────────────────────────────────────────
+rich>=13.7.0
+python-dotenv>=1.0.1
+reportlab>=4.1.0
+watchdog>=4.0.0
+forex-python>=1.8

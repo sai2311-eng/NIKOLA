@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Secrets / credentials
+.env
+*.key
+*.pem
+secrets.json
+
+# Large data / temp
+data/spec_sheets/
+data/openfoodfacts/
+*.tmp
+tmp/
+
+# Databases (generated at runtime)
+*.db
+*.db-shm
+*.db-wal
+
+# Selenium / Chrome driver cache
+chromedriver*
+geckodriver*
+
+# EasyOCR model cache
+.EasyOCR/
+
+# pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Archives / images / docs not needed in repo
+*.zip
+*.jpeg
+*.jpg
+*.png
+*.docx
+
+# Claude Code internal
+.claude/
+
+# Misc generated
+check_db.py
+gmail_sync.py

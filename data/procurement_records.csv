@@ -1,0 +1,16 @@
+po_number,date,component_id,component_name,manufacturer,quantity,unit_price_usd,total_price_usd,supplier,lead_time_weeks,delivery_status,quality_issue,notes
+PO-2025-001,2025-01-15,CAP-001,Murata GRM188R71H104KA93D,Murata,50000,0.12,6000.00,Digi-Key,4,delivered,none,Standard replenishment order
+PO-2025-002,2025-01-20,RES-001,Vishay CRCW04021K00FKED,Vishay,100000,0.09,9000.00,Digi-Key,5,delivered,none,Q1 production build
+PO-2025-003,2025-02-01,IC-001,Texas Instruments LM358DR,Texas Instruments,5000,0.35,1750.00,Digi-Key,8,delivered,none,New product introduction
+PO-2025-004,2025-02-10,CAP-002,Samsung CL05B104KO5NNNC,Samsung,80000,0.10,8000.00,Mouser,3,delivered,none,Substitute for Murata during shortage
+PO-2025-005,2025-02-14,CAP-001,Murata GRM188R71H104KA93D,Murata,30000,0.12,3600.00,Digi-Key,4,delayed,none,Delayed 2 weeks due to port congestion
+PO-2025-006,2025-03-01,RES-002,Panasonic ERJ-2RKF1001X,Panasonic,50000,0.11,5500.00,Mouser,3,delivered,none,Alternative sourcing trial
+PO-2025-007,2025-03-15,IC-002,STMicroelectronics LM358DT,STMicroelectronics,3000,0.32,960.00,Mouser,6,delivered,none,Cost reduction initiative
+PO-2025-008,2025-03-20,CAP-003,Yageo CC0402KRX7R9BB104,Yageo,200000,0.08,16000.00,Arrow,6,delivered,quality_hold,Batch 2025Q1 had 0.3% capacitance drift
+PO-2025-009,2025-04-01,RES-001,Vishay CRCW04021K00FKED,Vishay,75000,0.09,6750.00,Digi-Key,5,pending,none,Q2 production forecast
+PO-2025-010,2025-04-05,IC-001,Texas Instruments LM358DR,Texas Instruments,8000,0.35,2800.00,Digi-Key,8,pending,none,Shortage alert - long lead time
+PO-2025-011,2025-04-08,CAP-004,TDK C1005X7R1H104K050BA,TDK,40000,0.15,6000.00,Mouser,5,pending,none,Automotive grade for new project
+PO-2025-012,2024-10-10,CAP-001,Murata GRM188R71H104KA93D,Murata,100000,0.11,11000.00,Digi-Key,4,delivered,none,Bulk order Q4 2024
+PO-2025-013,2024-11-20,RES-004,KOA Speer RK73H1ETTP1001F,KOA Speer,25000,0.18,4500.00,Digi-Key,4,delivered,none,Thin film for precision application
+PO-2025-014,2024-12-05,IC-003,ON Semiconductor LM358MG,onsemi,2000,0.42,840.00,Arrow,10,delivered,none,Automotive qualification sample
+PO-2025-015,2025-01-08,CON-001,Molex 0530470610,Molex,5000,0.55,2750.00,Digi-Key,7,delivered,none,New connector design
