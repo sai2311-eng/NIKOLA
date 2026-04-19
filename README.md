@@ -372,6 +372,9 @@ internal_procurement/
 
 - Python 3.10+
 - Anthropic API key (for Claude-powered analysis)
+- **Tesseract OCR:** Required for document analysis.
+  - **Windows:** Install via [UB-Mannheim](https://github.com/UB-Mannheim/tesseract/wiki) and add to PATH.
+  - **Linux:** `sudo apt install tesseract-ocr`
 
 ### Installation
 
@@ -393,10 +396,22 @@ cp .env.example .env
 # Edit .env and add your ANTHROPIC_API_KEY
 ```
 
+### Data Setup (CRITICAL)
+
+The core database `db.sqlite` is not included in this repository due to size/privacy. 
+
+1. **Obtain `db.sqlite`:** Ensure you have the CPG SQLite database file.
+2. **Placement:** Place `db.sqlite` in the root directory of the project (`/NIKOLA/db.sqlite`).
+3. **Suppliers Database:** The `data/suppliers.db` will be automatically initialized on first run.
+
 ### Running
 
 ```bash
+# Run the Streamlit UI
 streamlit run app_v3.py --server.port 8502
+
+# OR Test via CLI (Offline Mode)
+python procurement_pipeline.py "soy lecithin" --mode offline
 ```
 
 The app will be available at `http://localhost:8502`.
