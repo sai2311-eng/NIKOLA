@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Supplier Intelligence Clipper",
+  "behavior": "create",
+  "noteContentFormat": "{{content}}",
+  "properties": [
+    {
+      "name": "supplier_name",
+      "value": "{{title}}",
+      "type": "text"
+    },
+    {
+      "name": "source_url",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "date_scraped",
+      "value": "{{date}}",
+      "type": "date"
+    },
+    {
+      "name": "source_name",
+      "value": "{{domain}}",
+      "type": "text"
+    }
+  ],
+  "triggers": [
+    {
+      "match": "alibaba.com",
+      "source_tier": 3,
+      "source_type": "b2b",
+      "note": "Check: Verified Supplier badge, Gold Plus status, Trade Assurance"
+    },
+    {
+      "match": "importyeti.com",
+      "source_tier": 4,
+      "source_type": "trade",
+      "note": "Check: shipment frequency, known buyers, HS code"
+    },
+    {
+      "match": "panjiva.com",
+      "source_tier": 4,
+      "source_type": "trade",
+      "note": "Check: bill of lading data, buyer-supplier links"
+    },
+    {
+      "match": "thomasnet.com",
+      "source_tier": 3,
+      "source_type": "b2b",
+      "note": "Best for USA/industrial. Check: company size, certifications"
+    },
+    {
+      "match": "europages.com",
+      "source_tier": 3,
+      "source_type": "b2b",
+      "note": "EU verified suppliers. Check: CE mark, REACH compliance"
+    },
+    {
+      "match": "indiamart.com",
+      "source_tier": 3,
+      "source_type": "b2b",
+      "note": "India local + export. Check: GST verified, TrustSEAL"
+    },
+    {
+      "match": "echa.europa.eu",
+      "source_tier": 1,
+      "source_type": "regulatory",
+      "note": "REACH compliance. Record registration number."
+    },
+    {
+      "match": "fda.gov",
+      "source_tier": 1,
+      "source_type": "regulatory",
+      "note": "US food/drug/cosmetic. Check recall database."
+    },
+    {
+      "match": "cpsc.gov",
+      "source_tier": 1,
+      "source_type": "regulatory",
+      "note": "US consumer product safety. Record any recall history."
+    },
+    {
+      "match": "gs1.org",
+      "source_tier": 1,
+      "source_type": "regulatory",
+      "note": "Barcode owner validation. Record GTIN and company match."
+    },
+    {
+      "match": "iaf.nu",
+      "source_tier": 1,
+      "source_type": "regulatory",
+      "note": "ISO cert verification. Record cert number + expiry date."
+    },
+    {
+      "match": "openfoodfacts.org",
+      "source_tier": 2,
+      "source_type": "brand",
+      "note": "Label images + ingredients. Treat as community data — cross-check."
+    },
+    {
+      "match": "zauba.com",
+      "source_tier": 4,
+      "source_type": "trade",
+      "note": "India customs data. Check import/export volume and frequency."
+    },
+    {
+      "match": "kompass.com",
+      "source_tier": 3,
+      "source_type": "b2b",
+      "note": "Global 60M+ directory. Check employee count, revenue, export."
+    }
+  ],
+  "fields_to_capture": {
+    "always_record": [
+      "Company / supplier full legal name",
+      "Product name and exact SKU or model",
+      "Price per unit (and currency)",
+      "MOQ (minimum order quantity)",
+      "Country of manufacture",
+      "Website or contact URL",
+      "Any certifications mentioned",
+      "Source URL (auto-filled by clipper)"
+    ],
+    "if_available": [
+      "Monthly / annual production capacity",
+      "Lead time in days",
+      "Pack sizes available",
+      "Barcode / GTIN",
+      "HS code",
+      "Known export destinations",
+      "Known buyer names",
+      "Audit or certification expiry dates",
+      "Contact name, email, WhatsApp"
+    ],
+    "red_flag_triggers_record_immediately": [
+      "Any mention of recall",
+      "Self-declared only — no cert body named",
+      "Cannot provide MSDS or SDS",
+      "No legal entity name or address",
+      "Expired certificate",
+      "Listed on EU Safety Gate or SaferProducts.gov"
+    ]
+  }
+}
