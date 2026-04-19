@@ -140,7 +140,8 @@ class SupplierDatabase:
 
     def __init__(self, db_path: Optional[str] = None):
         if db_path is None:
-            db_path = str(Path("D:/SAI/data/suppliers.db"))
+            # Resolve relative to project root (NIKOLA/data/suppliers.db)
+            db_path = str(Path(__file__).resolve().parents[2] / "data" / "suppliers.db")
         self._db_path = db_path
         Path(self._db_path).parent.mkdir(parents=True, exist_ok=True)
         self._conn = sqlite3.connect(self._db_path)
